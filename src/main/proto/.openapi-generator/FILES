@@ -1,0 +1,8 @@
+.openapi-generator-ignore
+README.md
+models/api_response.proto
+models/body1.proto
+models/category.proto
+models/pet.proto
+models/tag.proto
+services/pet_service.proto
